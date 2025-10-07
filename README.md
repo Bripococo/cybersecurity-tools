@@ -10,12 +10,9 @@ Each project reflects a distinct operational layer—from protocol fingerprintin
 | SOAR Logic Simulator | Threat simulation engines for IoT and SOAR platforms | [Ver repositorio](https://github.com/Bripococo/soar-logic-simulator) |
 | Chain-of-Execution Validator | Chain-of-execution validators for forensic integrity | [Ver repositorio](https://github.com/Bripococo/chain-execution-validator) |
 | IoT Threat Simulator | Simula eventos maliciosos en IoT | [Ver repositorio](https://github.com/Bripococo/iot-threat-simulator) |
-| Protocol Fingerprint Analyzer | Protocol fingerprinting for Modbus, MQTT, CoAP, BACnet and more
- | [Ver repositorio](https://github.com/Bripococo/protocol-fingerprint-analyzer) |
-| Embedded Crypto Auditor | Embedded cryptographic configuration auditing with multi-issue detection
- | [Ver repositorio](https://github.com/Bripococo/embedded-crypto-auditor) |
-| Firmware Behavior Mapper | Firmware behavior mapping and deviation classification
- | [Ver repositorio](https://github.com/Bripococo/firmware-behavior-mapper) |
+| Protocol Fingerprint Analyzer | Protocol fingerprinting for Modbus, MQTT, CoAP, BACnet and more | [Ver repositorio](https://github.com/Bripococo/protocol-fingerprint-analyzer) |
+| Embedded Crypto Auditor | Embedded cryptographic configuration auditing with multi-issue detection | [Ver repositorio](https://github.com/Bripococo/embedded-crypto-auditor) |
+| Firmware Behavior Mapper | Firmware behavior mapping and deviation classification | [Ver repositorio](https://github.com/Bripococo/firmware-behavior-mapper) |
 | CRS Optimizer CLI | CRS score simulation CLI for Express Entry migration planning | [Ver repositorio](https://github.com/Bripococo/crs-optimizer-cli) |
 
 ## 🛠️ Technologies
