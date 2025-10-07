@@ -18,3 +18,7 @@ Each project reflects a distinct operational layer—from protocol fingerprintin
 ## 🛠️ Technologies
 - Python · JSON · Pytest · Modular CLI architecture
 - Designed for reproducibility, auditability, and tactical integration
+
+##  📦 Structure
+Each tool is self-contained, testable, and documented with professional README files, sample inputs, and validation logic.
+
